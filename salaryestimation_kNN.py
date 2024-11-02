@@ -46,7 +46,7 @@ X_test = sc.transform(X_test)
 # plt.title(' Mean Error vs K value')
 # plt.xlabel('K value')
 # plt.ylabel(' Mean Error')
-
+# plt.show()
 
 # modle Training 
 from sklearn.neighbors import KNeighborsClassifier
