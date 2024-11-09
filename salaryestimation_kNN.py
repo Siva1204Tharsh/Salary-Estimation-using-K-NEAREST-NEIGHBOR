@@ -96,3 +96,4 @@ X_test = sc.transform(X_test)
 # plt.xlabel('K value')
 # plt.ylabel(' accuracy')
 # plt.show()
+### model Training
